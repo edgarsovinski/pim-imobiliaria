@@ -1,0 +1,16 @@
+edgarsovinski@gmail.com's googlecode.com password: VZ6qX8Zu6Qj6 
+
+
+c:\PIM\Projeto\pim-imobiliaria-read-only>svn checkout https://pim-imobiliaria.googlecode.com/svn/trunk/ pim-imobiliaria --username edgarsovinski@gmail.com
+Gerado c¢pia de trabalho para revis∆o 1.
+
+c:\PIM\Projeto\pim-imobiliaria-read-only\pim-imobiliaria>svn add teste_inclus„otxt
+A         teste_inclus∆o.txt
+
+c:\PIM\Projeto\pim-imobiliaria-read-only>svn commit c:\pim\Projeto\pim-imobiliaria-read-only\pim-imobiliaria -message
+µrea de autentica+∆o: <https://pim-imobiliaria.googlecode.com:443> Google Code Subversion Repository
+Usu†rio: edgarsovinski@gmail.com
+Senha para 'edgarsovinski@gmail.com': ************
+Adicionando    C:\PIM\Projeto\pim-imobiliaria-read-only\pim-imobiliaria\teste_inclus∆o.txt
+Transmitindo dados do arquivo .
+Commit da revis∆o 2.
