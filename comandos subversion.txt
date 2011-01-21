@@ -1,6 +1,3 @@
-edgarsovinski@gmail.com's googlecode.com password: VZ6qX8Zu6Qj6 
-
-
 c:\PIM\Projeto\pim-imobiliaria-read-only>svn checkout https://pim-imobiliaria.googlecode.com/svn/trunk/ pim-imobiliaria --username edgarsovinski@gmail.com
 Gerado c¢pia de trabalho para revisÆo 1.
 
