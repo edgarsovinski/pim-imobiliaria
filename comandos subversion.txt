@@ -14,3 +14,6 @@ Senha para 'edgarsovinski@gmail.com': ************
 Adicionando    C:\PIM\Projeto\pim-imobiliaria-read-only\pim-imobiliaria\teste_inclus∆o.txt
 Transmitindo dados do arquivo .
 Commit da revis∆o 2.
+
+
+--------------
